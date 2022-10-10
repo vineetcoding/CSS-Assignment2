@@ -1,0 +1,102 @@
+#p1 {
+    color: white;
+    font-size: 25px;
+    margin-top: 5%;
+}
+.div1 {
+    background-color: brown;
+    height: 50px;
+    margin-top: 0%;
+}
+
+img {
+    height: 200px;
+    border-radius: 50%;
+}
+.div3 {
+    border: 1px solid rgb(208, 151, 46);
+    width:120px; margin:0 auto;
+}
+.div3 text{
+    font-size: 22px;
+}
+.div4 button {
+    background-color: rgb(255, 91, 91);
+    border: 0ch;
+    cursor: pointer;
+    touch-action: manipulation;
+    width: 200px;
+}
+.button2:hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+} 
+.div5 button {
+    border: 1px solid orangered;
+    width:200px; margin:0 auto;
+    height: 25px;
+    cursor: pointer;
+    touch-action: manipulation;
+    background-color: white;
+}
+.div6 {
+    border: 1px solid orangered;
+    width:100%;
+    
+    touch-action: manipulation;
+    height: 70px;
+    font-size: 12px;
+    background-color:brown;
+}
+.button1:hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+    border:0px;
+} 
+#a:hover{
+    color:blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#a{
+    border-bottom:1px dashed white;
+    margin-bottom:0px;
+    color:white;
+    text-decoration: none;
+    }
+table{
+    margin-top:1.8%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+/* <!-- HTML !-->
+<button class="button-62" role="button">Button 62</button> */
+
+/* CSS */
+/* .button-62 {
+  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  border: 0;
+  border-radius: 12px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+} */
+
+
+
+/* .button2:not([disabled]):hover {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+} */
